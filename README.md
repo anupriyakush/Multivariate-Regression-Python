@@ -1,2 +1,0 @@
-# Multivariate-Regression-Python
-
